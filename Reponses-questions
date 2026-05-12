@@ -1,0 +1,5 @@
+Git : outil de versioning local (installé sur ta machine), qui suit l'historique des modifications de ton code.
+GitHub : plateforme en ligne qui héberge des dépôts Git et facilite la collaboration.
+Git = l'outil. GitHub = le serveur distant.
+2. git init
+Initialise un nouveau dépôt Git dans le dossier courant. Crée le dossier caché .git/ qui stocke tout l'historique.
